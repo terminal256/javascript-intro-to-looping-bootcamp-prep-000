@@ -8,3 +8,4 @@ function forLoop(array){
   }
 }
     
+function 
