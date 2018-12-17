@@ -7,6 +7,7 @@ function forLoop(array){
       array.unshift("I am ${i} strange loops.");
     }
   }
+  return array;
 }
     
 function whileLoop(count){
