@@ -10,7 +10,7 @@ function forLoop(array){
     
 function whileLoop(count){
   while (countdown > 0){
-    
+    console.log(--countdown);
   }
   return "done";
 }
