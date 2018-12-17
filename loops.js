@@ -8,4 +8,9 @@ function forLoop(array){
   }
 }
     
-function 
+function whileLoop(count){
+  while (countdown > 0){
+    
+  }
+  return "done";
+}
